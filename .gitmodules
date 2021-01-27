@@ -1,3 +1,12 @@
 [submodule "whack-a-mole"]
 	path = whack-a-mole
 	url = https://github.com/Meghana-Vadlapally/whack-a-mole.git
+[submodule "Rock-Paper-Scissors"]
+	path = Rock-Paper-Scissors
+	url = https://github.com/Meghana-Vadlapally/Rock-Paper-Scissors.git
+[submodule "tic-tac-toe"]
+	path = tic-tac-toe
+	url = https://github.com/Meghana-Vadlapally/tic-tac-toe.git
+[submodule "connect4"]
+	path = connect4
+	url = https://github.com/Meghana-Vadlapally/connect4.git
